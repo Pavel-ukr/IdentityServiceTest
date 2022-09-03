@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7HLEOZIlw2cGugwePo4XqRiitso8APtoVCSegVpGzta4a+RJwCdXUXDiB1agZNmRK10zDDItytNZlnH1xzDMGA==",
+  "dgSpecHash": "s0/YBztDwqRoG03WtMEqUcYLpuKdoEDKuIpfbduDNv8zfpw8zJ+43uSG5MbLqdotnyuI8/Rv4wN00POHvpzETg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\quickstart\\src\\Client\\Client.csproj",
+  "projectFilePath": "/Users/irakorovkina/Projects/IdentityServiceTest/src/Client/Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+    "/Users/irakorovkina/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512"
   ],
   "logs": []
 }
