@@ -15,6 +15,8 @@ public class Program
             return;
         }
 
+        var e = "cmdkcmdk";
+
         // request token
         var tokenResponse = await client.RequestClientCredentialsTokenAsync(new ClientCredentialsTokenRequest
         {

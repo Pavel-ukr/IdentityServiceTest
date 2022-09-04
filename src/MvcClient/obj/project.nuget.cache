@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "+dnZB2Vxi5uShKAatVWjF7YP+/JxOw8Asp+RTHy7SOOYjVZIn8r/WZZPZeRvAEIDNSwVKjuUe3RiZmARCr/QPQ==",
+  "dgSpecHash": "QS/xUfrcM+zcAZ8eiWZd8Crn2Hv/pSRlD7e4Mo7N5UIKqWB5qOoYt9wvt2NZ1HTA1BA6OHfLN/1lfnfLjtU7Rg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\quickstart\\src\\MvcClient\\MvcClient.csproj",
+  "projectFilePath": "/Users/irakorovkina/Projects/IdentityServiceTest/src/MvcClient/MvcClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.6\\microsoft.aspnetcore.authentication.openidconnect.6.0.6.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.21.0\\microsoft.identitymodel.abstractions.6.21.0.nupkg.sha512",
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.21.0\\microsoft.identitymodel.jsonwebtokens.6.21.0.nupkg.sha512",
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\microsoft.identitymodel.logging\\6.21.0\\microsoft.identitymodel.logging.6.21.0.nupkg.sha512",
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.21.0\\microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
-    "C:\\Users\\Lenovo Legion 5\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.21.0\\system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "/Users/irakorovkina/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/6.0.6/microsoft.aspnetcore.authentication.openidconnect.6.0.6.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/microsoft.identitymodel.abstractions/6.21.0/microsoft.identitymodel.abstractions.6.21.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.21.0/microsoft.identitymodel.jsonwebtokens.6.21.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/microsoft.identitymodel.logging/6.21.0/microsoft.identitymodel.logging.6.21.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/microsoft.identitymodel.tokens/6.21.0/microsoft.identitymodel.tokens.6.21.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/system.identitymodel.tokens.jwt/6.21.0/system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
+    "/Users/irakorovkina/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
